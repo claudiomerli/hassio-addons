@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.49.9.0
+
+-  Metabase version 0.49.9
+
 ## 0.49.6.0
 
 -  Metabase version 0.49.6
