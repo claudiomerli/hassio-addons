@@ -1,3 +1,9 @@
+# Deprecated
+This plugin was intended to stay aligned with Metabase version releases and is based on @sanderdw’s repository. Now that @sanderdw has resumed maintaining it, please use his version instead.
+
+https://github.com/sanderdw/hassio-addons
+
+
 ## Configure the repository
 
 See config instructions here: https://github.dev/claudiomerli/hassio-addons
