@@ -1,5 +1,6 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
 name: Metabase
+stage: deprecated
 version: "0.51.4.4"
 slug: metabase
 description: Meet the easy, open source way for everyone to ask questions and learn from data.
